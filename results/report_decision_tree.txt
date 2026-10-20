@@ -1,0 +1,13 @@
+              precision    recall  f1-score   support
+
+    BARBUNYA      0.898     0.902     0.900       265
+      BOMBAY      1.000     1.000     1.000       104
+        CALI      0.920     0.917     0.919       326
+    DERMASON      0.876     0.893     0.884       709
+       HOROZ      0.937     0.922     0.930       386
+       SEKER      0.909     0.936     0.922       406
+        SIRA      0.822     0.791     0.807       527
+
+    accuracy                          0.892      2723
+   macro avg      0.909     0.909     0.909      2723
+weighted avg      0.891     0.892     0.891      2723
